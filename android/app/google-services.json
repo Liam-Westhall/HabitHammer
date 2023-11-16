@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "475483167306",
+    "project_id": "habit-helper-fb988",
+    "storage_bucket": "habit-helper-fb988.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475483167306:android:fc702e92907564de4624b3",
+        "android_client_info": {
+          "package_name": "com.example.habit_hammer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfVsawD2vmY6zwlm-IpHTv_sFoxirsu_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
